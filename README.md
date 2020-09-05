@@ -1,5 +1,6 @@
 # Digital-Computer-Concept-and-Practice
-School Team Project
+Java Tetris AI 
+
 
 1. Game Source안에 모든 파일을 자바 터미널에 드래그 앤 드롭 
 2. import team11.MyAI;
