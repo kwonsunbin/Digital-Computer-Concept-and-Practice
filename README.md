@@ -1,5 +1,5 @@
-# Digital-Computer-Concept-and-Practice
-Java Tetris AI 
+# Java Tetris AI 
+Digital-Computer-Concept-and-Practice 2016 - Team Project
 
 
 1. Game Source안에 모든 파일을 자바 터미널에 드래그 앤 드롭 
